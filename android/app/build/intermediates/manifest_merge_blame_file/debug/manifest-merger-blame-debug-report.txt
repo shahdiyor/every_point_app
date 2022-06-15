@@ -9,168 +9,168 @@
 9        android:targetSdkVersion="31" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\debug\AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:4:5-67
-12-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:4:22-64
+12-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:4:22-64
 13    <uses-permission
-13-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:5:5-67
+13-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:5:5-67
 14        android:name="android.permission.BLUETOOTH"
-14-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:5:22-65
+14-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:5:22-65
 15        android:required="false" />
-15-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:12:9-33
+15-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:12:9-33
 16    <uses-permission
-16-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:6:5-73
+16-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:6:5-73
 17        android:name="android.permission.BLUETOOTH_ADMIN"
-17-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:6:22-71
+17-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:6:22-71
 18        android:required="false" />
-18-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:15:9-33
+18-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:15:9-33
 19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-19-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:7:5-80
-19-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:7:22-78
+19-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:7:5-80
+19-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:7:22-78
 20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-20-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:8:5-78
-20-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:8:22-76
+20-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:8:5-78
+20-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:8:22-76
 21    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-21-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:9:5-84
-21-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:9:22-82
+21-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:9:5-84
+21-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:9:22-82
 22    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
-22-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:10:5-72
-22-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:10:22-70
+22-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:10:5-72
+22-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:10:22-70
 23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-23-->[com.facebook.flipper:flipper:0.125.0] C:\Users\munavvarov\.gradle\caches\transforms-3\b2ec3232205e095c09543a31d56ae642\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
-23-->[com.facebook.flipper:flipper:0.125.0] C:\Users\munavvarov\.gradle\caches\transforms-3\b2ec3232205e095c09543a31d56ae642\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+23-->[com.facebook.flipper:flipper:0.125.0] C:\Users\Avvraam\.gradle\caches\transforms-3\b2ec3232205e095c09543a31d56ae642\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+23-->[com.facebook.flipper:flipper:0.125.0] C:\Users\Avvraam\.gradle\caches\transforms-3\b2ec3232205e095c09543a31d56ae642\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
 24    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-24-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:16:5-81
-24-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:16:22-78
+24-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:16:5-81
+24-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:16:22-78
 25
 26    <application
-26-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:12:5-31:19
+26-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:12:5-31:19
 27        android:name="com.ibeacon.MainApplication"
-27-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:13:7-38
+27-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:13:7-38
 28        android:allowBackup="false"
-28-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:17:7-34
+28-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:17:7-34
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-29-->[androidx.core:core:1.5.0] C:\Users\munavvarov\.gradle\caches\transforms-3\f382564408e8806e991bcb7c984abfd6\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+29-->[androidx.core:core:1.6.0] C:\Users\Avvraam\.gradle\caches\transforms-3\5c61d7afbc1bcd99cb491da6ba2ee6c1\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
-31-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:15:7-41
+31-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:15:7-41
 32        android:label="@string/app_name"
-32-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:14:7-39
+32-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:14:7-39
 33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:16:7-52
+33-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:16:7-52
 34        android:theme="@style/AppTheme"
-34-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:18:7-38
+34-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:18:7-38
 35        android:usesCleartextTraffic="true" >
-35-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\debug\AndroidManifest.xml:8:9-44
+35-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\debug\AndroidManifest.xml:8:9-44
 36        <activity
-36-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\debug\AndroidManifest.xml:11:9-111
+36-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\debug\AndroidManifest.xml:11:9-111
 37            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-37-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\debug\AndroidManifest.xml:11:19-83
+37-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\debug\AndroidManifest.xml:11:19-83
 38            android:exported="false" />
-38-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\debug\AndroidManifest.xml:11:84-108
+38-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\debug\AndroidManifest.xml:11:84-108
 39        <activity
-39-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:19:7-30:18
+39-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:19:7-30:18
 40            android:name="com.ibeacon.MainActivity"
-40-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:20:9-37
+40-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:20:9-37
 41            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-41-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:22:9-118
+41-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:22:9-118
 42            android:exported="true"
-42-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:25:9-32
+42-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:25:9-32
 43            android:label="@string/app_name"
-43-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:21:9-41
+43-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:21:9-41
 44            android:launchMode="singleTask"
-44-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:23:9-40
+44-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:23:9-40
 45            android:windowSoftInputMode="adjustResize" >
-45-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:24:9-51
+45-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:24:9-51
 46            <intent-filter>
-46-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:26:9-29:25
+46-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:26:9-29:25
 47                <action android:name="android.intent.action.MAIN" />
-47-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:27:13-65
-47-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:27:21-62
+47-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:27:13-65
+47-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:27:21-62
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:28:13-73
-49-->C:\Users\munavvarov\Desktop\iBeacon\android\app\src\main\AndroidManifest.xml:28:23-70
+49-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:28:13-73
+49-->C:\Users\Avvraam\Desktop\every_point_app\android\app\src\main\AndroidManifest.xml:28:23-70
 50            </intent-filter>
 51        </activity>
 52
 53        <receiver
-53-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:20:9-28:20
+53-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:20:9-28:20
 54            android:name="org.altbeacon.beacon.startup.StartupBroadcastReceiver"
-54-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:21:13-81
+54-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:21:13-81
 55            android:exported="false" >
-55-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:22:13-37
+55-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:22:13-37
 56            <intent-filter>
-56-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:23:13-27:29
+56-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:23:13-27:29
 57                <action android:name="android.intent.action.BOOT_COMPLETED" />
-57-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:24:17-79
-57-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:24:25-76
+57-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:24:17-79
+57-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:24:25-76
 58                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-58-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:25:17-87
-58-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:25:25-84
+58-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:25:17-87
+58-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:25:25-84
 59                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-59-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:26:17-90
-59-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:26:25-87
+59-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:26:17-90
+59-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:26:25-87
 60            </intent-filter>
 61        </receiver>
 62
 63        <service
-63-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:30:9-35:38
+63-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:30:9-35:38
 64            android:name="org.altbeacon.beacon.service.BeaconService"
-64-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:31:13-70
+64-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:31:13-70
 65            android:enabled="true"
-65-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:32:13-35
+65-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:32:13-35
 66            android:exported="false"
-66-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:33:13-37
+66-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:33:13-37
 67            android:isolatedProcess="false"
-67-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:34:13-44
+67-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:34:13-44
 68            android:label="beacon" />
-68-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:35:13-35
+68-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:35:13-35
 69        <service
-69-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:36:9-39:40
+69-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:36:9-39:40
 70            android:name="org.altbeacon.beacon.BeaconIntentProcessor"
-70-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:37:13-70
+70-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:37:13-70
 71            android:enabled="true"
-71-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:38:13-35
+71-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:38:13-35
 72            android:exported="false" />
-72-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:39:13-37
+72-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:39:13-37
 73        <service
-73-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:40:9-50:19
+73-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:40:9-50:19
 74            android:name="org.altbeacon.beacon.service.ScanJob"
-74-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:41:13-64
+74-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:41:13-64
 75            android:exported="false"
-75-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:42:13-37
+75-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:42:13-37
 76            android:permission="android.permission.BIND_JOB_SERVICE" >
-76-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:43:13-69
+76-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:43:13-69
 77            <meta-data
-77-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:44:13-46:45
+77-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:44:13-46:45
 78                android:name="immediateScanJobId"
-78-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:45:17-50
+78-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:45:17-50
 79                android:value="208352939" />
-79-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:46:17-42
+79-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:46:17-42
 80            <meta-data
-80-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:47:13-49:45
+80-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:47:13-49:45
 81                android:name="periodicScanJobId"
-81-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:48:17-49
+81-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:48:17-49
 82                android:value="208352940" />
-82-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:49:17-42
+82-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:49:17-42
 83        </service>
 84        <service
-84-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:51:9-58:19
+84-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:51:9-58:19
 85            android:name="org.altbeacon.bluetooth.BluetoothTestJob"
-85-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:52:13-68
+85-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:52:13-68
 86            android:exported="false"
-86-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:53:13-37
+86-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:53:13-37
 87            android:permission="android.permission.BIND_JOB_SERVICE" >
-87-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:54:13-69
+87-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:54:13-69
 88            <meta-data
-88-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:55:13-57:46
+88-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:55:13-57:46
 89                android:name="jobId"
-89-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:56:17-37
+89-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:56:17-37
 90                android:value="1799803768" />
-90-->[org.altbeacon:android-beacon-library:2.19.5-beta2] C:\Users\munavvarov\.gradle\caches\transforms-3\25aea8f7c2158ecd627d7e9c9b40da36\transformed\jetified-android-beacon-library-2.19.5-beta2\AndroidManifest.xml:57:17-43
+90-->[org.altbeacon:android-beacon-library:2.19.5-beta5] C:\Users\Avvraam\.gradle\caches\transforms-3\0a6992dc8b4d285c50901fa1863f1b2c\transformed\jetified-android-beacon-library-2.19.5-beta5\AndroidManifest.xml:57:17-43
 91        </service>
 92    </application>
 93
